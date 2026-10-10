@@ -31,29 +31,47 @@ If you own a **HackRF Portapack**, you can upload these files to your device, un
 
 -----
 
-## ❤️ Support the project
-If you would like to show your support, you can star my repository or follow me! If you appreciate this project, consider buying me a cup of coffee to keep the energy flowing! ☕ Thank you for your support!
+## ❤️ Support the Project
 
-**BTC Address:** `bc1qvul4mlxxw5h2hnt8knnxdrxuwgpf4styyk20tm`
+If you find this project useful and want to support its ongoing development, consider starring the repository ⭐, following the author, or buying a cup of coffee to keep things fueled! ☕
 
-**ETH Address:** `0x5c54eAb2acFE1c6C866FB4b050d8B69CfB1138Af`
+<div align="center">
+  <table width="70%">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://t.me/W0rthlessS0ul" target="_blank" rel="noreferrer noopener">
+          <img src="img/svg/telegram_donate.svg" width="100%" alt="Telegram Stars &amp; Gifts" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://nowpayments.io/donation?api_key=6370NCF-SXJ4MMC-N71CVMS-6G52PW9" target="_blank" rel="noreferrer noopener">
+          <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" width="100%" alt="NOWPayments Crypto" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**LTC Address:** `LbdzCsYbxuD341raar6Cg1yKavaDq7fjuV`
+<br>
 
-**XRP Address:** `rKLLPzoBGfqY3pAQPwTFPRYaWjpHSwHNDw`
+<details>
+<summary><b>🪙 Direct Cryptocurrency Transfer</b></summary>
+<br>
 
-**ADA Address:** `addr1qyz2aku0ucmxqnl60lza23lkx2xha8zmxz9wqxnrtvpjysgy4mdcle3kvp8l5l7964rlvv5d06w9kvy2uqdxxkcryfqs7pajev`
+| Coin / Network | Direct Wallet Address |
+| :--- | :--- |
+| 🟧 **Bitcoin (BTC)** | `bc1qvul4mlxxw5h2hnt8knnxdrxuwgpf4styyk20tm` |
+| 🔷 **Ethereum (ETH)** | `0x5c54eAb2acFE1c6C866FB4b050d8B69CfB1138Af` |
+| ⚪ **Litecoin (LTC)** | `LbdzCsYbxuD341raar6Cg1yKavaDq7fjuV` |
+| ⚫ **Ripple (XRP)** | `rKLLPzoBGfqY3pAQPwTFPRYaWjpHSwHNDw` |
+| 🔵 **Cardano (ADA)** | `addr1qyz2aku0ucmxqnl60lza23lkx2xha8zmxz9wqxnrtvpjysgy4mdcle3kvp8l5l7964rlvv5d06w9kvy2uqdxxkcryfqs7pajev` |
+| 🟡 **Dogecoin (DOGE)** | `DBzAvD62yQUkP4Cb7C5LuFYQEierF3D3oG` |
 
-**DOGE Address:** `DBzAvD62yQUkP4Cb7C5LuFYQEierF3D3oG`
+</details>
 
-<a href="https://nowpayments.io/donation?
-  api_key=6370NCF-SXJ4MMC-N71CVMS-6G52PW9"
-  target="_blank" rel="noreferrer noopener">
-  <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" 
-  alt="Cryptocurrency & Bitcoin donation button by NOWPayments">
-</a>
+<br>
 
-Every donation you make is deeply appreciated and will help in the ongoing development of this project!
+> Every donation is greatly appreciated and directly contributes to the development, testing, and new hardware revisions of this project!
 
 ---
 
